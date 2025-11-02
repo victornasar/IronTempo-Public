@@ -10,7 +10,7 @@ IronTempo is a tempo trainer for gym workouts. Control eccentric/concentric spee
 
 ## Privacy
 We collect **nothing**. No analytics, no data.  
-[Privacy Policy]([https://github.com/victornasar/IronTempo-Public/blob/main/PrivacyPolicy.md]
+[Privacy Policy](https://github.com/victornasar/IronTempo-Public/blob/main/PrivacyPolicy.md)
 
 ## Installation
 1. Clone:
